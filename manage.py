@@ -2,6 +2,7 @@
 import os
 import sys
 
+#i don't know what this does.
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "aion.settings")
 
